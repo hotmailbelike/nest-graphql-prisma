@@ -1,3 +1,12 @@
+followed this video:https://www.youtube.com/watch?v=geYvdbpo3cA
+
+Queries:
+![image](https://user-images.githubusercontent.com/25118296/225179913-0e979a94-b656-484c-9ff3-13d01fbfba44.png)
+![image](https://user-images.githubusercontent.com/25118296/225179932-521ea20a-39d7-451c-9067-a531d0abe773.png)
+![image](https://user-images.githubusercontent.com/25118296/225179942-46f68cf7-cd72-42b6-a150-ea854b27d4ef.png)
+![image](https://user-images.githubusercontent.com/25118296/225179958-6a83ba90-37ca-4ab0-a148-72ee45a7ad38.png)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
